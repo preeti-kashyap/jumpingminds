@@ -1,0 +1,4 @@
+language: python
+python:
+  - "3"
+script: python -m doctest README.md
